@@ -1,3 +1,5 @@
+# :warning: **NOTE**: this plugin has been moved into https://github.com/Kong/kong. Please open issues and PRs in that repository.
+
 # Kong gRPC-gateway plugin
 
 A [Kong] plugin to allow access to a gRPC service via HTTP REST requests and translate requests and
